@@ -8,7 +8,7 @@
   - 🌱 I’m currently studying C#.
   - 🔭 I am looking for my first job opportunity.
   - 🎓 Graduated in Systems Analysis and Development.
-
+<hr>
 <details>
   <summary>👨‍💻 More about me</summary>
 
