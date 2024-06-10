@@ -8,14 +8,13 @@
   - 🌱 I’m currently studying C#.
   - 🔭 I am looking for my first job opportunity.
   - 🎓 Graduated in Systems Analysis and Development.
-<hr>
 <details>
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 22 years old, currently living in Brazil and I'm studying to become fluent in English.
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
-
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Namanosbad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
@@ -23,8 +22,8 @@
 </div>
 
 ###
+<hr>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
