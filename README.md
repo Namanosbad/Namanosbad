@@ -5,7 +5,7 @@
   Hi 👋, I'm Matheus! A passionate student from Brazil.
 </p>
 
-  - 🌱 I’m currently studying C#.
+  - 🌱 I’m currently studying Front-end.
   - 🔭 I am looking for my first job opportunity.
   - 🎓 Graduated in Systems Analysis and Development.
 <details>
