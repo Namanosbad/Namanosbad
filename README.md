@@ -55,6 +55,15 @@ Atuo com o ecossistema **.NET**, construindo aplicações escaláveis e integran
 - [Acessar Repositório →](https://github.com/Namanosbad/OharaAPI)
 
 ---
+**InvoiceAPI - API de Gestão de Faturas** 🧾  
+- **Stack:** ASP.NET Core, Entity Framework, QuestPDF  
+- API para gerenciamento completo do ciclo de invoices  
+- Geração de documentos PDF com formatação estruturada  
+- Modelagem de domínio com validações e separação de responsabilidades  
+- Arquitetura em camadas (Application / Domain / Infrastructure)  
+- [Acessar Repositório →](https://github.com/Namanosbad/InvoiceAPI)
+
+---
 
 **ETrocas - Plataforma de Troca de Produtos** 🔄  
 - **Stack:** .NET 8, Entity Framework Core, JWT, Swagger  
@@ -64,15 +73,6 @@ Atuo com o ecossistema **.NET**, construindo aplicações escaláveis e integran
 - Estrutura organizada visando extensibilidade e segurança  
 - [Acessar Repositório →](https://github.com/Namanosbad/ETrocas)
 
----
-
-**InvoiceAPI - API de Gestão de Faturas** 🧾  
-- **Stack:** ASP.NET Core, Entity Framework, QuestPDF  
-- API para gerenciamento completo do ciclo de invoices  
-- Geração de documentos PDF com formatação estruturada  
-- Modelagem de domínio com validações e separação de responsabilidades  
-- Arquitetura em camadas (Application / Domain / Infrastructure)  
-- [Acessar Repositório →](https://github.com/Namanosbad/InvoiceAPI)
 ---
 
 ### 🎯 Foco Atual
